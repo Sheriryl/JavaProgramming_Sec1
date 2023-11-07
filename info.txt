@@ -1,0 +1,5 @@
+Student_id : 2313110062
+Student Name : Wiramon Paesomwang
+Major : IT
+Level : 1
+Faculty : Information Technoloy
