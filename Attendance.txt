@@ -1,0 +1,4 @@
+Id : 2313110062
+Name-Surname : Wiramon Paesomwang
+Date : Nov-14-2023
+Topic : Input Data
