@@ -1,4 +1,4 @@
 Id : 2313110062
 Name-Surname : Wiramon Paesomwang
-Date : Dec-27-2023
-Topic :  Array and Array Method
+Date : Jan-17-2024
+Topic :  Encapsulation Concept
